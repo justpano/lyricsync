@@ -7,12 +7,12 @@
   "website": "https://justpano.github.io/lyricsync",
   "tintColor": "#6D35FF",
   "featuredApps": [
-    "com.justpano.lyricsync2026"
+    "com.macluca.lyricsync"
   ],
   "apps": [
     {
       "name": "LyricSync",
-      "bundleIdentifier": "com.justpano.lyricsync2026",
+      "bundleIdentifier": "com.macluca.lyricsync",
       "developerName": "Luca",
       "subtitle": "Lyrics live per Apple Music e CarPlay",
       "localizedDescription": "LyricSync mostra il testo della canzone in riproduzione, con Live Activity, testo sincronizzato o approssimativo e visualizzazione ottimizzata per CarPlay.",
