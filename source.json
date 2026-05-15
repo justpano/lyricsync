@@ -1,0 +1,54 @@
+{
+  "name": "Luca Apps",
+  "subtitle": "App personali iOS",
+  "description": "Source AltStore per installare LyricSync tramite IPA.",
+  "iconURL": "https://justpano.github.io/lyricsync/icon.png",
+  "headerURL": "https://justpano.github.io/lyricsync/icon.png",
+  "website": "https://justpano.github.io/lyricsync",
+  "tintColor": "#6D35FF",
+  "featuredApps": [
+    "com.justpano.lyricsync2026"
+  ],
+  "apps": [
+    {
+      "name": "LyricSync",
+      "bundleIdentifier": "com.justpano.lyricsync2026",
+      "developerName": "Luca",
+      "subtitle": "Lyrics live per Apple Music e CarPlay",
+      "localizedDescription": "LyricSync mostra il testo della canzone in riproduzione, con Live Activity, testo sincronizzato o approssimativo e visualizzazione ottimizzata per CarPlay.",
+      "iconURL": "https://justpano.github.io/lyricsync/icon.png",
+      "tintColor": "#6D35FF",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-15",
+          "localizedDescription": "Prima build AltStore di LyricSync.",
+          "downloadURL": "https://justpano.github.io/lyricsync/LyricSync.ipa",
+          "size": 2871262,
+          "minOSVersion": "16.2"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.music-user-token"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "LyricSync needs access to Apple Music to detect the current song and sync lyrics."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "LyricSync disponibile",
+      "identifier": "lyricsync-1-0",
+      "caption": "Prima versione caricata su AltStore.",
+      "date": "2026-05-15",
+      "tintColor": "#6D35FF",
+      "imageURL": "https://justpano.github.io/lyricsync/icon.png",
+      "notify": false
+    }
+  ]
+}
