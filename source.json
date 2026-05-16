@@ -14,26 +14,23 @@
       "name": "LyricSync",
       "bundleIdentifier": "com.macluca.lyricsync",
       "developerName": "Luca",
-      "subtitle": "Lyrics live per Apple Music e CarPlay",
-      "localizedDescription": "LyricSync mostra il testo della canzone in riproduzione, con Live Activity, testo sincronizzato o approssimativo e visualizzazione ottimizzata per CarPlay.",
+      "subtitle": "Lyrics live per Apple Music",
+      "localizedDescription": "LyricSync mostra il testo della canzone in riproduzione, con Live Activity e testi sincronizzati o approssimativi.",
       "iconURL": "https://justpano.github.io/lyricsync/icon.png",
       "tintColor": "#6D35FF",
       "category": "entertainment",
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2",
+          "buildVersion": "3",
           "date": "2026-05-16",
-          "localizedDescription": "Prima build AltStore di LyricSync.",
+          "localizedDescription": "Build 3 di LyricSync.",
           "downloadURL": "https://justpano.github.io/lyricsync/LyricSync.ipa",
-          "size": 2871256,
+          "size": 2873893,
           "minOSVersion": "16.2"
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.music-user-token"
-        ],
         "privacy": {
           "NSAppleMusicUsageDescription": "LyricSync needs access to Apple Music to detect the current song and sync lyrics."
         }
@@ -42,9 +39,9 @@
   ],
   "news": [
     {
-      "title": "LyricSync disponibile",
-      "identifier": "lyricsync-1-0",
-      "caption": "Prima versione caricata su AltStore.",
+      "title": "LyricSync build 3",
+      "identifier": "lyricsync-build-3",
+      "caption": "Aggiornamento build 3 disponibile.",
       "date": "2026-05-16",
       "tintColor": "#6D35FF",
       "imageURL": "https://justpano.github.io/lyricsync/icon.png",
