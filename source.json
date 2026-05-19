@@ -22,11 +22,11 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "4",
-          "date": "2026-05-18",
+          "buildVersion": "5",
+          "date": "2026-05-19",
           "localizedDescription": "Prima build AltStore di LyricSync.",
           "downloadURL": "https://justpano.github.io/lyricsync/LyricSync.ipa",
-          "size": 2871256,
+          "size": 3034449,
           "minOSVersion": "16.2"
         }
       ],
@@ -45,7 +45,7 @@
       "title": "LyricSync disponibile",
       "identifier": "lyricsync-1-0",
       "caption": "Prima versione caricata su AltStore.",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "tintColor": "#6D35FF",
       "imageURL": "https://justpano.github.io/lyricsync/icon.png",
       "notify": false
