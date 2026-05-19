@@ -22,11 +22,11 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "5",
+          "buildVersion": "7",
           "date": "2026-05-19",
           "localizedDescription": "Prima build AltStore di LyricSync.",
           "downloadURL": "https://justpano.github.io/lyricsync/LyricSync.ipa",
-          "size": 3034449,
+          "size": 3034564,
           "minOSVersion": "16.2"
         }
       ],
